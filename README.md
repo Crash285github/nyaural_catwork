@@ -1,4 +1,4 @@
-# nyaural_catwork
+# The Nyaural Catwork :3
 
 ## Task: 
 Create 2 AutoEncoders, train them on
